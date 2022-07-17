@@ -11,7 +11,7 @@ const hero = tileMap.getHero(velocity);
 
 function gameLoop(){
     tileMap.drawMap(contxt);
-    Hero.draw(contxt);
+    hero.draw(contxt);
 }
 
 tileMap.setCanvasSize(canvas);

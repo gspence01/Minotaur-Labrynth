@@ -1,0 +1,23 @@
+{
+  "name": "minotaur-labrynth",
+  "version": "1.0.0",
+  "description": ">\"Let the people of Athens this year draw lots for only six young men, instead of seven,\" said he, \"I will myself be the seventh; and let the Minotaur devour me if he can!\"<br /><br /> - Nathaniel Hawthorne, Tanglewood Tales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: not test specified\" && exit 1",
+    "start": "live-server --port=5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gspence01/Minotaur-Labrynth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/gspence01/Minotaur-Labrynth/issues"
+  },
+  "homepage": "https://github.com/gspence01/Minotaur-Labrynth#readme"
+}
